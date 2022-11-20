@@ -1,0 +1,2 @@
+firesignal(game.ReplicatedStorage.Bricks.DeathHint.OnClientEvent, {"Nice try fatty", "tried to copy kardin BOiNG", "*tickles balls*", "*sucks cock*", "ah"})
+game.Players.LocalPlayer.Character.Humanoid.Health = 0
